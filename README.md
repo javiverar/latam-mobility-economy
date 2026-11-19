@@ -16,8 +16,7 @@ Does traffic congestion relate to economic productivity? This project combines *
 
 ## Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPO/blob/main/latam_mobility_economy_2024.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javiverar/latam-mobility-economy/blob/main/latam_mobility_economy_2024.ipynb)
 ## Methodology
 
 1. **Cleaning**: date columns converted to datetime; numeric columns stored as text in European format (thousand separators, decimal commas, `%` signs) converted to float; columns renamed to snake_case.
